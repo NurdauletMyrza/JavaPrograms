@@ -4,6 +4,8 @@ package exercises.Chapter3;
 public class Exercise10 {
     public static void main(String[] args) {
         // 1.Generate two single digits into number1 and number2
+
+        double d = new java.util.Scanner(System.in).nextDouble();
         int number1 = (int) (Math.random() * 100);
         int number2 = (int) (Math.random() * 100);
 
