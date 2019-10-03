@@ -6,7 +6,7 @@ public class exercise6_10 {
         System.out.print(2 + " ");
         for (int i = 3, count = 0; i < 10000; i+=2, count++) {
             if (count % 100 == 0) System.out.println();
-            System.out.print((PrimeNumberMethod.isPrime(i)) ? i + " " : "");
+            System.out.print((exercises.PrimeNumberMethod.isPrime(i)) ? i + " " : "");
         }
     }
 }
