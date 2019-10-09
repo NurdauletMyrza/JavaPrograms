@@ -1,6 +1,6 @@
 package exercises.Chapter4;
 
-public class exercise4_25 {
+public class Exercise25 {
     /** Generate vehicle plate number */
     public static void main(String[] args) {
         // Generate random 4 digit integer

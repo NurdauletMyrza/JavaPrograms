@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_22 {
+public class Exercise22 {
     /** Check substring */
     public static void main(String[] args) {
         // Prompt the user to enter two string

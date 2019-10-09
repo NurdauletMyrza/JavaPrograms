@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_21 {
+public class Exercise21 {
     /** Check SSN */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

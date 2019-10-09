@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_3 {
+public class Exercise3 {
     /** Geography estimate areas */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

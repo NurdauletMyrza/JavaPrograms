@@ -1,13 +1,11 @@
 package exercises.Chapter4;
-import java.util.Scanner;
 
-public class exercise4_1 {
+public class Exercise1 {
     /** Geometry: area of a pentagon */
     public static void main(String[] args) {
         // Prompt the user to enter length from the center to a vertex
-        Scanner input = new Scanner(System.in);
         System.out.print("Enter the length from the center to a vertex: ");
-        double r = input.nextDouble();
+        double r = new java.util.Scanner(System.in).nextDouble();
 
         // Compute an area
         double s = 2 * r * Math.sin(Math.PI / 5);

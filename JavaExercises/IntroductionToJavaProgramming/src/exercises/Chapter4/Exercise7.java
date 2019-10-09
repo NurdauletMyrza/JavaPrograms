@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_7 {
+public class Exercise7 {
     /** Corner point coordinate */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_4 {
+public class Exercise4 {
     public static void main(String[] args) {
         // Prompt the user to enter the side
         Scanner input = new Scanner(System.in);

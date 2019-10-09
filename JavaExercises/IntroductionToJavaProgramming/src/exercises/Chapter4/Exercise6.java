@@ -1,6 +1,6 @@
 package exercises.Chapter4;
 
-public class exercise4_6 {
+public class Exercise6 {
     /** Random points on a circle */
     public static void main(String[] args) {
         final int RADIUS = 40;

@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_11 {
+public class Exercise11 {
     /** Decimal to hex */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

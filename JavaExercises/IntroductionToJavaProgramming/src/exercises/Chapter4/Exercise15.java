@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_15 {
+public class Exercise15 {
     /** Phone key pads */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

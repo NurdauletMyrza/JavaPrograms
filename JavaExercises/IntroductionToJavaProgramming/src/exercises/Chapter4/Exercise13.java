@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_13 {
+public class Exercise13 {
     /** Vowel or consonant */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

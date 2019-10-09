@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_17 {
+public class Exercise17 {
     /** Days of a month */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

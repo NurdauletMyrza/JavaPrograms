@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_20 {
+public class Exercise20 {
     /** Process a string */
     public static void main(String[] args) {
         // Prompt the user to enter string

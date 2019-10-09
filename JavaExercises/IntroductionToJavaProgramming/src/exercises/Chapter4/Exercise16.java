@@ -1,6 +1,6 @@
 package exercises.Chapter4;
 
-public class exercise4_16 {
+public class Exercise16 {
     /** Random character */
     public static void main(String[] args) {
         // Generate random number [0, 25]

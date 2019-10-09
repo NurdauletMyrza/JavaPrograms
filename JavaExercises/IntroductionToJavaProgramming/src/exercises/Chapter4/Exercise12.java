@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_12 {
+public class Exercise12 {
     public static void main(String[] args) {
         // Prompt the user to enter hex digit
         Scanner input = new Scanner(System.in);

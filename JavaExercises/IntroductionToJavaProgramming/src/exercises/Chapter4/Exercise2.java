@@ -1,10 +1,9 @@
 package exercises.Chapter4;
-import java.util.Scanner;
 
-public class exercise4_2 {
+public class Exercise2 {
     /** Geometry: great circle distance */
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        java.util.Scanner input = new java.util.Scanner(System.in);
         final double RADIUS = 6371.01;
         // Prompt the user to enter point 1
         System.out.print("Enter point 1 (latitude and longitude) in degrees: ");

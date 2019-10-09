@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_5 {
+public class Exercise5 {
     /** Geometry: area of a regular polygon */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

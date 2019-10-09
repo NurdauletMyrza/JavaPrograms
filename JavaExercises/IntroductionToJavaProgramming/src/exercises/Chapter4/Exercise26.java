@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_26 {
+public class Exercise26 {
     /** Financial application: monetary units */
     public static void main(String[] args) {
         // Create a Scanner

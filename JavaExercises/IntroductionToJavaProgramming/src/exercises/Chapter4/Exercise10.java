@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_10 {
+public class Exercise10 {
     /** Guess birthday */
     public static void main(String[] args) {
         String set1 = " 1  3  5  7\n" +

@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_19 {
+public class Exercise19 {
     /** Business: check ISBN-10 */
         public static void main(String[] args) {
             // Create a Scanner

@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_14 {
+public class Exercise14 {
     /** Convert letter grade to number */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

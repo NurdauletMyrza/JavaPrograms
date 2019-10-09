@@ -1,7 +1,7 @@
 package exercises.Chapter4;
 import java.util.Scanner;
 
-public class exercise4_8 {
+public class Exercise8 {
     /** Find the character of an ASCII code */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
